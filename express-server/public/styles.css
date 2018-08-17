@@ -1,0 +1,11 @@
+body {
+    background: #c00;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 0 20px;
+}
+p {
+    color: #cff;
+    margin:0 0 10px;
+}
